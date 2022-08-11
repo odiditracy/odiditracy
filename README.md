@@ -1,4 +1,4 @@
-# Odidi_Naomi_Tracy
+
 ![](https://media-exp1.licdn.com/dms/image/C4D03AQEXoEHBCiPAEA/profile-displayphoto-shrink_800_800/0/1658190377629?e=1665619200&v=beta&t=qLqRSVusiVwB5FKvPR-DNsVZrOeY78Zltv6Sp4iYFzQ.png)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Odidi Naomi Tracy

@@ -11,7 +11,7 @@ I am passionate about anything that involves numbers and business. I am a recipi
 
 *   🌍  I'm based in Lagos, Nigeria.
 *   🖥️  See my portfolio at [Repository](http://https://github.com/odiditracy?tab=repositories)
-*   🖥️  Here is a copy of my [CV/Resume](https://drive.google.com/file/d/1OjYWcBsdcATfjJo71kPriw_uyAywtepT/view?usp=sharing)
+*   🖥️  Here is a copy of my [CV](https://drive.google.com/file/d/1oJoifb0RXoWMNLSemjgdLAXO8qsn81iW/view?usp=sharing) and [Cover Letter](https://drive.google.com/file/d/1Hbd9TH2jhFRekR96HsvwNBaHM_uUnArD/view?usp=sharing)
 *   ✉️  You can contact me at [Tracyodidi@gmail.com](mailto:Tracyodidi@gmail.com)
 *   🧠  I'm learning Data Science for Insurance (InsurTech) and my portfolio would be focused on insurtech projects
 *   🤝  I'm open to collaborating on projects in insurance and financial tech.

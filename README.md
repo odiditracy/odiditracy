@@ -4,17 +4,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Odidi Naomi Tracy
 =========================================================================================================================================
 
-Mathematician and Data Scientist
+BSc Mathematics, MSc Actuarial Science
 --------------------------------
 
-I am passionate about anything that involves numbers and business. I am a recipient of the Women Techster Fellowship Class'23 in partnership with Microsoft and the Islamic Development Bank and I am currently a master of actuarial science candidate.
+I am currently a Master of Actuarial Science student at the University of Lagos and my interests are in Non-parametric Actuarial Modelling, Non-Life Insurance, Data Science and Machine Learning, and Survival Analysis. I enjoy projects that require the implementation and application of theoretical mathematical and actuarial concepts. I am a recipient of the Women Techster Fellowship Class'23 in partnership with Microsoft and the Islamic Development Bank where I learned Data Science and Big Data Management. I am open to further academicc pursuits in Actuarial Science and/or Machine Learning and Artificial Intelligence. 
 
 *   🌍  I'm based in Lagos, Nigeria.
 *   🖥️  See my portfolio at [Repository](http://https://github.com/odiditracy?tab=repositories)
-*   🖥️  Here is a copy of my [CV](https://drive.google.com/file/d/1oJoifb0RXoWMNLSemjgdLAXO8qsn81iW/view?usp=sharing) and [Cover Letter](https://drive.google.com/file/d/1Hbd9TH2jhFRekR96HsvwNBaHM_uUnArD/view?usp=sharing)
+*   🖥️  Here is a copy of my [CV](https://drive.google.com/file/d/1_bqbQRxqY762O28SNjiZYcEyitzeAZuV/view?usp=drive_link) and [Cover Letter](https://drive.google.com/file/d/1Hbd9TH2jhFRekR96HsvwNBaHM_uUnArD/view?usp=sharing)
 *   ✉️  You can contact me at [Tracyodidi@gmail.com](mailto:Tracyodidi@gmail.com)
-*   🧠  I'm learning Data Science for Insurance (InsurTech) and my portfolio would be focused on insurtech projects
-*   🤝  I'm open to collaborating on projects in insurance and financial tech.
+*   🤝  I'm open to collaborating on projects in insurance and insur-tech.
 *   ⚡  I think Earth Wind & Fire + Queens are the best music band to every do it. BTS are my latest obsession by the way
 
 ### Skills
